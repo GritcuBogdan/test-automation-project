@@ -33,7 +33,7 @@ public class BaseUITest {
         //close the broswer
 //        if(driver != null) {
 //            driver.quit();
-//        }
-    }
+      }
+   // }
 
 }
