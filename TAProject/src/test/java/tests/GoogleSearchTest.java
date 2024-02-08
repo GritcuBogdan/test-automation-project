@@ -26,7 +26,7 @@ public class GoogleSearchTest {
        // acceptCookiesButton.click();
 
         WebElement searchInput = driver.findElement(By.name("q"));
-        searchInput.sendKeys("Google Atelierul Digital", Keys.ENTER);
+        searchInput.sendKeys("Fifa World Cup 2022", Keys.ENTER);
 
 
         WebElement googleAtelierulDigitalLink = driver.findElement(By.xpath("//*[@id=\"rso\"]/div[1]/div/div/div[1]/div/div/span/a/h3"));
